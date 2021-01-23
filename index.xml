@@ -12,56 +12,178 @@
         <pubDate>Wed, 20 Jan 2021 01:08:17 +0800</pubDate>
         
         <guid>https://ray90514.github.io/post/first-post/</guid>
-        <description>&lt;p&gt;嗨，這是第一篇文章，許多功能尚未完成&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;h1 id=&#34;aaa&#34;&gt;AAA&lt;/h1&gt;
-&lt;p&gt;歡迎給些建議。
-&lt;iframe src=&#34;https://store.steampowered.com/widget/1097150/&#34; frameborder=&#34;0&#34; width=&#34;646&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;
-&lt;a class=&#34;link&#34; href=&#34;http://lain.bgm.tv/pic/cover/l/88/6b/285666_ad2Az.jpg&#34;  title=&#34;s&#34;
-     target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;aa&lt;/a&gt;
-&lt;div id=&#34;aniImg&#34;&gt; &lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-	var apiUrl = &#39;https://api.bgm.tv/subject/316247&#39;;
-    fetch(apiUrl).then(response =&gt; {
-      return response.json();
-    }).then(data =&gt; {
-      
-	  
-	  
-	  document.getElementById(&#34;aniImg&#34;).innerHTML=&#39;&lt;img src=&#39;data.images.common&#39;&gt;&#39;;
-    }).catch(err =&gt; {
-      
-	  
-    });	   
-&lt;/script&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>https://ray90514.github.io/post/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://ray90514.github.io/post/test-chinese/</guid>
-        <description>&lt;img src="https://ray90514.github.io/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试&lt;/h2&gt;
-&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;florian-klauer-nptLmg6jqDo-unsplash.jpg&#34; alt=&#34;Photo by Florian Klauer on Unsplash&#34;  /&gt;  &lt;img src=&#34;luca-bravo-alS7ewQ41M8-unsplash.jpg&#34; alt=&#34;Photo by Luca Bravo on Unsplash&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;helena-hertz-wWZzXlDpMog-unsplash.jpg&#34; alt=&#34;Photo by Helena Hertz on Unsplash&#34;  /&gt;  &lt;img src=&#34;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34; alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;  /&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
+        <description>&lt;p&gt;
+&lt;div class=&#34;animaInfo&#34;&gt;
+&lt;img src=&#34;http://lain.bgm.tv/pic/cover/l/88/6b/285666_ad2Az.jpg&#34; width=50% height=50% &gt;
+&lt;/div&gt;
 
-![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+body {
+  background:#e2e2e2;
+  width:98%;
+  height:100vh;
+.card {
+  width:800px;
+  height:400px;
+  background:transparent;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+  top:0;
+  bottom:0;
+  border-radius:10px;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  box-shadow: 0px 20px 30px 3px rgba(0, 0, 0, 0.55);
+  &amp;_left {
+    width:40%;
+    height:400px;
+    float:left;
+    overflow:hidden;
+    background:transparent;
+    img {
+      width:100%;
+      height:auto;
+      border-radius:10px 0 0 10px;
+      -webkit-border-radius:10px 0 0 10px;
+      -moz-border-radius:10px 0 0 10px;
+      position:relative;
+    }
+  }
+  &amp;_right {
+    width:60%;
+    float:left;
+    background:#000000;
+    height:400px;
+    border-radius:0 10px 10px 0;
+    -webkit-border-radius:0 10px 10px 0;
+    -moz-border-radius:0 10px 10px 0;
+   h1 {
+    color:white;
+    font-family: &#39;Montserrat&#39;, sans-serif;
+    font-weight:400;
+    text-align:left;
+    font-size:40px;
+    margin:30px 0 0 0;
+    padding:0 0 0 40px;
+    letter-spacing:1px;
+	border-radius: 0 0 0 0;
+   }
+    &amp;__details {
+      ul {
+        list-style-type:none;
+        padding:0 0 0 40px;
+        margin:10px 0 0 0;
+        li {
+          display:inline;
+          color:#e3e3e3;
+          font-family: &#39;Montserrat&#39;, sans-serif;
+          font-weight:400;
+          font-size:14px;
+          padding:0 40px 0 0;
+        }
+      }
+    }
+    &amp;__rating {
+      &amp;__stars {
+        position:relative;
+        right:160px;
+        margin:10px 0 10px 0;
+          fieldset, label { margin: 0; padding: 0; }
+.rating { 
+  border: none;
+}
+
+.rating &gt; input { display: none; } 
+.rating &gt; label:before { 
+  margin: 5px;
+  font-size: 1.25em;
+  display: inline-block;
+  content: &#34;\f005&#34;;
+  font-family: FontAwesome;
+}
+
+.rating &gt; .half:before { 
+  content: &#34;\f089&#34;;
+  position: absolute;
+}
+
+.rating &gt; label { 
+  color: #ddd;
+  float:right;
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating &gt; input:checked ~ label, /* show gold star when clicked */
+.rating:not(:checked) &gt; label:hover, /* hover current star */
+.rating:not(:checked) &gt; label:hover ~ label { color: #FFD700;  } /* hover previous stars in list */
+
+.rating &gt; input:checked + label:hover, /* hover current star when changing rating */
+.rating &gt; input:checked ~ label:hover,
+.rating &gt; label:hover ~ input:checked ~ label, /* lighten current selection */
+.rating &gt; input:checked ~ label:hover ~ label { color: #FFED85;  }      
+      }
+    }
+    &amp;__review {
+      p {
+        color:white;
+        font-family: &#39;Montserrat&#39;, sans-serif;
+        font-size:12px;
+        padding:0 40px 0 40px;
+        letter-spacing:1px;
+        margin:10px 0 10px 0;
+        line-height:20px;
+      }
+      a {
+        text-decoration:none;
+        font-family: &#39;Montserrat&#39;, sans-serif;
+        font-size:14px;
+        padding:0 0 0 40px;
+        color:#ffda00;
+        margin:0;
+      }
+    }
+&amp;__button {
+      a {
+        color:#ffda00;
+        text-decoration:none;
+        font-family: &#39;Montserrat&#39;, sans-serif;
+        border:2px solid #ffda00;
+        padding:10px 10px 10px 40px;
+        font-size:12px;
+        background:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/343086/COMdoWZ.png);
+        background-size:12px 12px;
+        background-repeat:no-repeat;
+            background-position: 7% 50%;
+        border-radius:5px;
+          -webkit-transition-property: all;
+          transition-property: all;
+  -webkit-transition-duration: .5s;
+          transition-duration: .5s;
+      }
+      a:hover {
+            color: #000000;
+  background-color: #ffda00;
+        background-image:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/343086/rFQ5dHA.png);
+          background-size:12px 12px;
+        background-repeat:no-repeat;
+            background-position: 10% 50%;
+  cursor: pointer;
+  -webkit-transition-property: all;
+          transition-property: all;
+  -webkit-transition-duration: .5s;
+          transition-duration: .5s;
+      }
+        padding:0 0 0 40px;
+        margin:30px 0 0 0;
+    }
+}
+}
+}&lt;/p&gt;
+&lt;p&gt;aaaa動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。&lt;/p&gt;
 </description>
         </item>
         
