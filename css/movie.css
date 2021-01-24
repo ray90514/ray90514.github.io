@@ -28,7 +28,7 @@
 /* Style the back side */
 .plot {
 	position:relative;
-	background-color: #F9FCFF;
+	background-color: #F9FEFF;
 	display:flex;
 	transform: rotateY(180deg);
 	width: 100%;
@@ -37,12 +37,9 @@
 	right:2%;
 	border-radius:5px;
 	box-shadow: 1px 1px 7px rgba(0,0,0,0.4);
-	border-style:solid;
-	border-color:black;
-	border-width:5px;
 }
 .plot > span{
-	color: black;
+	color: #808080;
 	font-size:1.5rem;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
@@ -129,34 +126,46 @@
 	color:orange;
 	transform:scale(0.8);
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 769px){
+	.flip-card {
+		height: 180px;
+		width:95%;
+	}
 	.flip-card:active .flip-card-inner {
 		transform: rotateY(180deg);
 	}
+	.plot{
+		
+	}
     .movie-info{
-        display:block;
+        display:contents;
 		left:0%;
 		height:auto;
     }
 	.poster{
 		left:25%;
 		width:50%;
+		margin: 0 0 0 0;
 	}
 	.detail{
 		left:2.8%;
+		height:100%;
+		width:100%;
 	}
 	.detail > .title{
 		font-size:2.5rem;
+		margin: 0 0 0.6rem 0;
 	}
 	.detail > .info{
-		font-size:1.25rem;	
+		font-size:1.25rem;
+		margin: 0 0 0.6rem 0;		
 	}
 	.detail > .list{	
 		font-size:1rem;
 		line-height:2.5em;
 	}
 	.rate{
-		left:65%;
+		left:69%;
 		top:82%;
 	}
 	.rate > span{
