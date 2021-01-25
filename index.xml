@@ -6,6 +6,82 @@
         <description>Recent content on Diary、にっき、日記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ray90514.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 25 Jan 2021 21:56:17 +0800</lastBuildDate><atom:link href="https://ray90514.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>第一篇文</title>
+        <link>https://ray90514.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</link>
+        <pubDate>Mon, 25 Jan 2021 21:56:17 +0800</pubDate>
+        
+        <guid>https://ray90514.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</guid>
+        <description>&lt;img src="https://ray90514.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/poster.jpg" alt="Featured image of post 第一篇文" /&gt;&lt;p&gt;用了一個禮拜終於可以配置完了，上學期都在用Markdown作筆記，所以拿來寫文章應該是蠻適應的。
+過程中學了一些網頁相關的知識，雖然是前端偏多且蠻基礎的，不過手刻出了一個Info Card。
+
+
+
+
+
+
+&lt;link rel=stylesheet type=&#34;text/css&#34; href=&#34;https://ray90514.github.io/css/movie.css&#34;&gt;
+
+&lt;div class=&#34;movie-info&#34;&gt;
+	&lt;img class=&#34;poster&#34; src=http://lain.bgm.tv/pic/cover/l/f7/d3/295778_s7898.jpg&gt;
+	
+	&lt;div class=&#34;flip-card&#34;&gt;
+    &lt;div class=&#34;flip-card-inner&#34;&gt;
+	&lt;div class=&#34;detail&#34;&gt;
+		&lt;span class=&#34;title&#34; &gt;&lt;center&gt;&lt;p&gt;ジョゼと虎と魚たち&lt;/center&gt;&lt;/p&gt;&lt;/span&gt;
+		&lt;span class=&#34;info&#34;&gt;
+			&lt;span&gt;2020&lt;/span&gt;&lt;span&gt;全1話&lt;/span&gt;&lt;span&gt;BONES&lt;/span&gt;
+		&lt;/span&gt;
+			&lt;ul class=&#34;list&#34;&gt;
+				&lt;li&gt;監督 : タムラコータロー &lt;/li&gt;
+				&lt;li&gt;聲優 : 中川大志,清原果耶,宮本侑芽,興津和幸,Lynn,松寺千恵美&lt;/li&gt;
+				&lt;li&gt;排名 : #&lt;/li&gt;
+			&lt;/ul&gt;		
+		&lt;div class=&#34;rate&#34; style=&#34;display:flex;&#34;&gt;
+			&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&#34;&gt;
+			&lt;i class=&#34;fa fa-star checked fa-lg&#34;&gt;&lt;/i&gt;
+			&lt;span&gt;7.4 / 10&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;/div&gt;
+	&lt;/div&gt;
+	
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;文章的主要功能是解決了，以後看是寫寫心得，有出國玩可以放照片，或是比較技術的東西。
+希望是能堅持下去啦。
+網頁相關的大三再繼續，上半年先忙別的。&lt;br&gt;
+就這樣，歡迎留言，畢竟標題介紹頭像都還是隨便亂放的。&lt;/p&gt;
+&lt;h1 id=&#34;然後就是一些功能展示&#34;&gt;然後就是一些功能展示&lt;/h1&gt;
+&lt;h2 id=&#34;一堆東西沒加進來阿&#34;&gt;一堆東西沒加進來阿&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;RSS&lt;/li&gt;
+&lt;li&gt;個人連結&lt;/li&gt;
+&lt;li&gt;About me&lt;/li&gt;
+&lt;li&gt;看還有甚麼有趣的可以放&lt;/li&gt;
+&lt;li&gt;info card其實有翻轉的效果，不過我把他關了&lt;/li&gt;
+&lt;li&gt;有機會讓他支援dark mode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Node&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;%s &amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;steamInfo&#34;&gt;
+    &lt;center&gt;&lt;img src=&#34;https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg&#34; width=auto height=auto&gt;&lt;/center&gt;	
+&lt;/div&gt;
+&lt;center&gt;&lt;iframe src=&#34;https://store.steampowered.com/widget/1091500/&#34; frameborder=&#34;0&#34; height=&#34;190&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/gxwRIx47CjQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
     </channel>
 </rss>
