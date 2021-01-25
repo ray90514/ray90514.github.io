@@ -88,17 +88,7 @@
 	color:orange;
 	transform:scale(0.8);
 }
-@media screen and (max-width: 769px){
-	.flip-card {
-		height: 180px;
-		width:95%;
-	}
-	.flip-card:active .flip-card-inner {
-		transform: rotateY(180deg);
-	}
-	.plot{
-		
-	}
+@media screen and (max-width: 769px){	
     .movie-info{
         display:contents;
 		left:0%;
