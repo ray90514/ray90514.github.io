@@ -26,9 +26,11 @@
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
+{{if .Param.flipCard}}
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
 }
+{{end}}
 
 /* Position the front and back side */
 .detail, .plot {
