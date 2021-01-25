@@ -62,6 +62,7 @@
 &lt;li&gt;看還有甚麼有趣的可以放&lt;/li&gt;
 &lt;li&gt;info card其實有翻轉的效果，不過我把他關了&lt;/li&gt;
 &lt;li&gt;有機會讓他支援dark mode&lt;/li&gt;
+&lt;li&gt;還有置頂文&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Node&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
