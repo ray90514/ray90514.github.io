@@ -32,11 +32,12 @@
 	display:flex;
 	flex-flow:column;
 	background-color:#282e39;
-	width:100%;
+	flex-basis:100%;
 	position:relative;
 	left:1.5%;
 	border-radius:5px;
 	box-shadow: 1px 1px 7px rgba(0,0,0,0.4);
+	//min-width:100%;
 }
 .detail > .title{
 	position:relative;

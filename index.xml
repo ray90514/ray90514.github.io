@@ -13,11 +13,7 @@
         
         <guid>https://ray90514.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</guid>
         <description>&lt;img src="https://ray90514.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/poster.jpg" alt="Featured image of post 第一篇文" /&gt;&lt;p&gt;用了一個禮拜終於可以配置完了，上學期都在用Markdown作筆記，所以拿來寫文章應該是蠻適應的。
-過程中學了一些網頁相關的知識，雖然是前端偏多且蠻基礎的，不過手刻出了一個Info Card。
-
-
-
-
+過程中學了一些網頁相關的知識，雖然是前端偏多且蠻基礎的，不過手刻出了一個Info Card，有兩種版本。
 
 
 &lt;link rel=stylesheet type=&#34;text/css&#34; href=&#34;https://ray90514.github.io/css/movie.css&#34;&gt;
@@ -25,8 +21,6 @@
 &lt;div class=&#34;movie-info&#34;&gt;
 	&lt;img class=&#34;poster&#34; src=http://lain.bgm.tv/pic/cover/l/f7/d3/295778_s7898.jpg&gt;
 	
-	&lt;div class=&#34;flip-card&#34;&gt;
-    &lt;div class=&#34;flip-card-inner&#34;&gt;
 	&lt;div class=&#34;detail&#34;&gt;
 		&lt;span class=&#34;title&#34; &gt;&lt;center&gt;&lt;p&gt;ジョゼと虎と魚たち&lt;/center&gt;&lt;/p&gt;&lt;/span&gt;
 		&lt;span class=&#34;info&#34;&gt;
@@ -42,14 +36,11 @@
 			&lt;i class=&#34;fa fa-star checked fa-lg&#34;&gt;&lt;/i&gt;
 			&lt;span&gt;7.4 / 10&lt;/span&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
-	
-	&lt;/div&gt;
-	&lt;/div&gt;
+	&lt;/div&gt;	
 	
 &lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;文章的主要功能是解決了，以後看是寫寫心得，有出國玩可以放照片，或是比較技術的東西。
+&lt;p&gt;
+文章的主要功能是解決了，以後看是寫寫心得，有出國玩可以放照片，或是比較技術的東西。
 希望是能堅持下去啦。
 網頁相關的大三再繼續，上半年先忙別的。&lt;br&gt;
 就這樣，歡迎留言，畢竟標題介紹頭像都還是隨便亂放的。&lt;/p&gt;
